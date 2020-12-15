@@ -1,0 +1,737 @@
+-----------------------------------------
+Iteration: 1
+Logged time: Sun Nov  1 15:36:33 2020
+Reported time: Sun Nov  1 15:36:33 2020
+Aler time: false
+
+Reporting node		 Coord		Temp
+	4 		 (1,1) 		 93
+
+Adjusting nodes		 Coord		Temp
+	7 		 (2,1) 		 98
+	3 		 (1,0) 		 96
+	5 		 (1,2) 		 86
+
+Infrared Satellite Reporting Time: Sun Nov  1 15:36:32 2020
+Infrared Satellite Reporting (Celsius): 61
+Infrared Satellite Reporting Coords: (1,1)
+
+Communication Time(secods): 0.073570
+Number of adjacent matches to reporting node: 3
+Time difference between WSN and Satellite reading: 1.000000
+-----------------------------------------
+-----------------------------------------
+Iteration: 1
+Logged time: Sun Nov  1 18:06:37 2020
+Reported time: Sun Nov  1 18:06:37 2020
+Aler time: true
+
+Reporting node		 Coord		Temp
+	1 		 (1,0) 		 64
+
+Adjusting nodes		 Coord		Temp
+	0 		 (0,0) 		 93
+	2 		 (2,0) 		 97
+
+Infrared Satellite Reporting Time: Sun Nov  1 18:06:37 2020
+Infrared Satellite Reporting (Celsius): 68
+Infrared Satellite Reporting Coords: (1,0)
+
+Communication Time(secods): 0.074470
+Number of adjacent matches to reporting node: 2
+Time difference between WSN and Satellite reading: 0.000000
+-----------------------------------------
+-----------------------------------------
+Iteration: 1
+Logged time: Sun Nov  1 18:06:37 2020
+Reported time: Sun Nov  1 18:06:37 2020
+Aler time: false
+
+Reporting node		 Coord		Temp
+	1 		 (1,0) 		 64
+
+Adjusting nodes		 Coord		Temp
+	0 		 (0,0) 		 93
+	2 		 (2,0) 		 97
+
+Infrared Satellite Reporting Time: Sun Nov  1 18:06:33 2020
+Infrared Satellite Reporting (Celsius): 53
+Infrared Satellite Reporting Coords: (1,0)
+
+Communication Time(secods): 0.074470
+Number of adjacent matches to reporting node: 2
+Time difference between WSN and Satellite reading: 4.000000
+-----------------------------------------
+-----------------------------------------
+Iteration: 2
+Logged time: Sun Nov  1 18:06:38 2020
+Reported time: Sun Nov  1 18:06:38 2020
+Aler time: false
+
+Reporting node		 Coord		Temp
+	1 		 (1,0) 		 88
+
+Adjusting nodes		 Coord		Temp
+	0 		 (0,0) 		 97
+	2 		 (2,0) 		 86
+
+Infrared Satellite Reporting Time: Sun Nov  1 18:06:37 2020
+Infrared Satellite Reporting (Celsius): 68
+Infrared Satellite Reporting Coords: (1,0)
+
+Communication Time(secods): 0.074470
+Number of adjacent matches to reporting node: 2
+Time difference between WSN and Satellite reading: 1.000000
+-----------------------------------------
+-----------------------------------------
+Iteration: 8
+Logged time: Sun Nov  1 18:07:03 2020
+Reported time: Sun Nov  1 18:07:03 2020
+Aler time: false
+
+Reporting node		 Coord		Temp
+	1 		 (1,0) 		 80
+
+Adjusting nodes		 Coord		Temp
+	0 		 (0,0) 		 88
+	2 		 (2,0) 		 86
+
+Infrared Satellite Reporting Time: Sun Nov  1 18:06:59 2020
+Infrared Satellite Reporting (Celsius): 51
+Infrared Satellite Reporting Coords: (1,0)
+
+Communication Time(secods): 0.074473
+Number of adjacent matches to reporting node: 2
+Time difference between WSN and Satellite reading: 4.000000
+-----------------------------------------
+-----------------------------------------
+Iteration: 1
+Logged time: Sun Nov  1 18:07:50 2020
+Reported time: Sun Nov  1 18:07:50 2020
+Aler time: false
+
+Reporting node		 Coord		Temp
+	2 		 (1,0) 		 67
+
+Adjusting nodes		 Coord		Temp
+	0 		 (0,0) 		 93
+	3 		 (1,1) 		 94
+
+Infrared Satellite Reporting Time: Sun Nov  1 18:07:48 2020
+Infrared Satellite Reporting (Celsius): 51
+Infrared Satellite Reporting Coords: (1,0)
+
+Communication Time(secods): 0.074478
+Number of adjacent matches to reporting node: 2
+Time difference between WSN and Satellite reading: 2.000000
+-----------------------------------------
+-----------------------------------------
+Iteration: 3
+Logged time: Sun Nov  1 18:07:56 2020
+Reported time: Sun Nov  1 18:07:56 2020
+Aler time: true
+
+Reporting node		 Coord		Temp
+	0 		 (0,0) 		 49
+
+Adjusting nodes		 Coord		Temp
+	2 		 (1,0) 		 85
+	1 		 (0,1) 		 83
+
+Infrared Satellite Reporting Time: Sun Nov  1 18:07:56 2020
+Infrared Satellite Reporting (Celsius): 69
+Infrared Satellite Reporting Coords: (0,0)
+
+Communication Time(secods): 0.074478
+Number of adjacent matches to reporting node: 2
+Time difference between WSN and Satellite reading: 0.000000
+-----------------------------------------
+-----------------------------------------
+Iteration: 5
+Logged time: Sun Nov  1 18:08:01 2020
+Reported time: Sun Nov  1 18:08:01 2020
+Aler time: true
+
+Reporting node		 Coord		Temp
+	2 		 (1,0) 		 70
+
+Adjusting nodes		 Coord		Temp
+	0 		 (0,0) 		 89
+	3 		 (1,1) 		 88
+
+Infrared Satellite Reporting Time: Sun Nov  1 18:07:59 2020
+Infrared Satellite Reporting (Celsius): 72
+Infrared Satellite Reporting Coords: (1,0)
+
+Communication Time(secods): 0.074479
+Number of adjacent matches to reporting node: 2
+Time difference between WSN and Satellite reading: 2.000000
+-----------------------------------------
+-----------------------------------------
+Iteration: 7
+Logged time: Sun Nov  1 18:08:05 2020
+Reported time: Sun Nov  1 18:08:05 2020
+Aler time: true
+
+Reporting node		 Coord		Temp
+	0 		 (0,0) 		 77
+
+Adjusting nodes		 Coord		Temp
+	2 		 (1,0) 		 90
+	1 		 (0,1) 		 91
+
+Infrared Satellite Reporting Time: Sun Nov  1 18:08:05 2020
+Infrared Satellite Reporting (Celsius): 74
+Infrared Satellite Reporting Coords: (0,0)
+
+Communication Time(secods): 0.074479
+Number of adjacent matches to reporting node: 2
+Time difference between WSN and Satellite reading: 0.000000
+-----------------------------------------
+-----------------------------------------
+Iteration: 8
+Logged time: Sun Nov  1 18:08:07 2020
+Reported time: Sun Nov  1 18:08:07 2020
+Aler time: false
+
+Reporting node		 Coord		Temp
+	1 		 (0,1) 		 79
+
+Adjusting nodes		 Coord		Temp
+	3 		 (1,1) 		 99
+	0 		 (0,0) 		 87
+
+Infrared Satellite Reporting Time: Sun Nov  1 18:08:07 2020
+Infrared Satellite Reporting (Celsius): 55
+Infrared Satellite Reporting Coords: (0,1)
+
+Communication Time(secods): 0.074479
+Number of adjacent matches to reporting node: 2
+Time difference between WSN and Satellite reading: 0.000000
+-----------------------------------------
+-----------------------------------------
+Iteration: 2
+Logged time: Sun Nov  1 18:08:45 2020
+Reported time: Sun Nov  1 18:08:45 2020
+Aler time: true
+
+Reporting node		 Coord		Temp
+	3 		 (1,1) 		 64
+
+Adjusting nodes		 Coord		Temp
+	1 		 (0,1) 		 93
+	2 		 (1,0) 		 88
+
+Infrared Satellite Reporting Time: Sun Nov  1 18:08:45 2020
+Infrared Satellite Reporting (Celsius): 68
+Infrared Satellite Reporting Coords: (1,1)
+
+Communication Time(secods): 0.074483
+Number of adjacent matches to reporting node: 2
+Time difference between WSN and Satellite reading: 0.000000
+-----------------------------------------
+-----------------------------------------
+Iteration: 3
+Logged time: Sun Nov  1 18:08:46 2020
+Reported time: Sun Nov  1 18:08:46 2020
+Aler time: false
+
+Reporting node		 Coord		Temp
+	3 		 (1,1) 		 89
+
+Adjusting nodes		 Coord		Temp
+	1 		 (0,1) 		 82
+	2 		 (1,0) 		 93
+
+Infrared Satellite Reporting Time: Sun Nov  1 18:08:45 2020
+Infrared Satellite Reporting (Celsius): 68
+Infrared Satellite Reporting Coords: (1,1)
+
+Communication Time(secods): 0.074483
+Number of adjacent matches to reporting node: 2
+Time difference between WSN and Satellite reading: 1.000000
+-----------------------------------------
+-----------------------------------------
+Iteration: 5
+Logged time: Sun Nov  1 18:08:50 2020
+Reported time: Sun Nov  1 18:08:50 2020
+Aler time: true
+
+Reporting node		 Coord		Temp
+	2 		 (1,0) 		 58
+
+Adjusting nodes		 Coord		Temp
+	0 		 (0,0) 		 92
+	3 		 (1,1) 		 89
+
+Infrared Satellite Reporting Time: Sun Nov  1 18:08:50 2020
+Infrared Satellite Reporting (Celsius): 70
+Infrared Satellite Reporting Coords: (1,0)
+
+Communication Time(secods): 0.074484
+Number of adjacent matches to reporting node: 2
+Time difference between WSN and Satellite reading: 0.000000
+-----------------------------------------
+-----------------------------------------
+Iteration: 7
+Logged time: Sun Nov  1 18:08:53 2020
+Reported time: Sun Nov  1 18:08:53 2020
+Aler time: true
+
+Reporting node		 Coord		Temp
+	3 		 (1,1) 		 72
+
+Adjusting nodes		 Coord		Temp
+	1 		 (0,1) 		 89
+	2 		 (1,0) 		 86
+
+Infrared Satellite Reporting Time: Sun Nov  1 18:08:52 2020
+Infrared Satellite Reporting (Celsius): 82
+Infrared Satellite Reporting Coords: (1,1)
+
+Communication Time(secods): 0.074484
+Number of adjacent matches to reporting node: 2
+Time difference between WSN and Satellite reading: 1.000000
+-----------------------------------------
+-----------------------------------------
+Iteration: 8
+Logged time: Sun Nov  1 18:08:54 2020
+Reported time: Sun Nov  1 18:08:54 2020
+Aler time: true
+
+Reporting node		 Coord		Temp
+	1 		 (0,1) 		 58
+
+Adjusting nodes		 Coord		Temp
+	3 		 (1,1) 		 89
+	0 		 (0,0) 		 95
+
+Infrared Satellite Reporting Time: Sun Nov  1 18:08:53 2020
+Infrared Satellite Reporting (Celsius): 59
+Infrared Satellite Reporting Coords: (0,1)
+
+Communication Time(secods): 0.074484
+Number of adjacent matches to reporting node: 2
+Time difference between WSN and Satellite reading: 1.000000
+-----------------------------------------
+-----------------------------------------
+Iteration: 1
+Logged time: Sun Nov  1 18:09:27 2020
+Reported time: Sun Nov  1 18:09:27 2020
+Aler time: true
+
+Reporting node		 Coord		Temp
+	0 		 (0,0) 		 58
+
+Adjusting nodes		 Coord		Temp
+	2 		 (1,0) 		 81
+	1 		 (0,1) 		 93
+
+Infrared Satellite Reporting Time: Sun Nov  1 18:09:23 2020
+Infrared Satellite Reporting (Celsius): 62
+Infrared Satellite Reporting Coords: (0,0)
+
+Communication Time(secods): 0.074487
+Number of adjacent matches to reporting node: 2
+Time difference between WSN and Satellite reading: 4.000000
+-----------------------------------------
+-----------------------------------------
+Iteration: 4
+Logged time: Sun Nov  1 18:09:38 2020
+Reported time: Sun Nov  1 18:09:38 2020
+Aler time: true
+
+Reporting node		 Coord		Temp
+	1 		 (0,1) 		 45
+
+Adjusting nodes		 Coord		Temp
+	3 		 (1,1) 		 90
+	0 		 (0,0) 		 98
+
+Infrared Satellite Reporting Time: Sun Nov  1 18:09:37 2020
+Infrared Satellite Reporting (Celsius): 69
+Infrared Satellite Reporting Coords: (0,1)
+
+Communication Time(secods): 0.074488
+Number of adjacent matches to reporting node: 2
+Time difference between WSN and Satellite reading: 1.000000
+-----------------------------------------
+-----------------------------------------
+Iteration: 5
+Logged time: Sun Nov  1 18:09:39 2020
+Reported time: Sun Nov  1 18:09:39 2020
+Aler time: true
+
+Reporting node		 Coord		Temp
+	2 		 (1,0) 		 56
+
+Adjusting nodes		 Coord		Temp
+	0 		 (0,0) 		 98
+	3 		 (1,1) 		 98
+
+Infrared Satellite Reporting Time: Sun Nov  1 18:09:39 2020
+Infrared Satellite Reporting (Celsius): 88
+Infrared Satellite Reporting Coords: (1,0)
+
+Communication Time(secods): 0.074488
+Number of adjacent matches to reporting node: 2
+Time difference between WSN and Satellite reading: 0.000000
+-----------------------------------------
+-----------------------------------------
+Iteration: 7
+Logged time: Sun Nov  1 18:09:41 2020
+Reported time: Sun Nov  1 18:09:41 2020
+Aler time: false
+
+Reporting node		 Coord		Temp
+	1 		 (0,1) 		 85
+
+Adjusting nodes		 Coord		Temp
+	3 		 (1,1) 		 88
+	0 		 (0,0) 		 99
+
+Infrared Satellite Reporting Time: Sun Nov  1 18:09:37 2020
+Infrared Satellite Reporting (Celsius): 69
+Infrared Satellite Reporting Coords: (0,1)
+
+Communication Time(secods): 0.074489
+Number of adjacent matches to reporting node: 2
+Time difference between WSN and Satellite reading: 4.000000
+-----------------------------------------
+-----------------------------------------
+Iteration: 1
+Logged time: Sun Nov  1 18:10:11 2020
+Reported time: Sun Nov  1 18:10:11 2020
+Aler time: true
+
+Reporting node		 Coord		Temp
+	3 		 (1,1) 		 69
+
+Adjusting nodes		 Coord		Temp
+	1 		 (0,1) 		 91
+	2 		 (1,0) 		 86
+
+Infrared Satellite Reporting Time: Sun Nov  1 18:10:10 2020
+Infrared Satellite Reporting (Celsius): 60
+Infrared Satellite Reporting Coords: (1,1)
+
+Communication Time(secods): 0.074492
+Number of adjacent matches to reporting node: 2
+Time difference between WSN and Satellite reading: 1.000000
+-----------------------------------------
+-----------------------------------------
+Iteration: 2
+Logged time: Sun Nov  1 18:10:14 2020
+Reported time: Sun Nov  1 18:10:14 2020
+Aler time: true
+
+Reporting node		 Coord		Temp
+	0 		 (0,0) 		 54
+
+Adjusting nodes		 Coord		Temp
+	2 		 (1,0) 		 86
+	1 		 (0,1) 		 91
+
+Infrared Satellite Reporting Time: Sun Nov  1 18:10:13 2020
+Infrared Satellite Reporting (Celsius): 95
+Infrared Satellite Reporting Coords: (0,0)
+
+Communication Time(secods): 0.074492
+Number of adjacent matches to reporting node: 2
+Time difference between WSN and Satellite reading: 1.000000
+-----------------------------------------
+-----------------------------------------
+Iteration: 4
+Logged time: Sun Nov  1 18:10:21 2020
+Reported time: Sun Nov  1 18:10:21 2020
+Aler time: false
+
+Reporting node		 Coord		Temp
+	2 		 (1,0) 		 78
+
+Adjusting nodes		 Coord		Temp
+	0 		 (0,0) 		 96
+	3 		 (1,1) 		 85
+
+Infrared Satellite Reporting Time: Sun Nov  1 18:10:17 2020
+Infrared Satellite Reporting (Celsius): 55
+Infrared Satellite Reporting Coords: (1,0)
+
+Communication Time(secods): 0.074493
+Number of adjacent matches to reporting node: 2
+Time difference between WSN and Satellite reading: 4.000000
+-----------------------------------------
+-----------------------------------------
+Iteration: 6
+Logged time: Sun Nov  1 18:10:24 2020
+Reported time: Sun Nov  1 18:10:24 2020
+Aler time: false
+
+Reporting node		 Coord		Temp
+	0 		 (0,0) 		 71
+
+Adjusting nodes		 Coord		Temp
+	2 		 (1,0) 		 93
+	1 		 (0,1) 		 81
+
+Infrared Satellite Reporting Time: Sun Nov  1 18:10:24 2020
+Infrared Satellite Reporting (Celsius): 61
+Infrared Satellite Reporting Coords: (0,0)
+
+Communication Time(secods): 0.074493
+Number of adjacent matches to reporting node: 2
+Time difference between WSN and Satellite reading: 0.000000
+-----------------------------------------
+-----------------------------------------
+Iteration: 1
+Logged time: Sun Nov  1 18:10:53 2020
+Reported time: Sun Nov  1 18:10:53 2020
+Aler time: true
+
+Reporting node		 Coord		Temp
+	1 		 (0,1) 		 50
+
+Adjusting nodes		 Coord		Temp
+	3 		 (1,1) 		 88
+	0 		 (0,0) 		 96
+
+Infrared Satellite Reporting Time: Sun Nov  1 18:10:52 2020
+Infrared Satellite Reporting (Celsius): 60
+Infrared Satellite Reporting Coords: (0,1)
+
+Communication Time(secods): 0.074496
+Number of adjacent matches to reporting node: 2
+Time difference between WSN and Satellite reading: 1.000000
+-----------------------------------------
+-----------------------------------------
+Iteration: 2
+Logged time: Sun Nov  1 18:10:54 2020
+Reported time: Sun Nov  1 18:10:54 2020
+Aler time: true
+
+Reporting node		 Coord		Temp
+	2 		 (1,0) 		 65
+
+Adjusting nodes		 Coord		Temp
+	0 		 (0,0) 		 92
+	3 		 (1,1) 		 88
+
+Infrared Satellite Reporting Time: Sun Nov  1 18:10:54 2020
+Infrared Satellite Reporting (Celsius): 100
+Infrared Satellite Reporting Coords: (1,0)
+
+Communication Time(secods): 0.074496
+Number of adjacent matches to reporting node: 2
+Time difference between WSN and Satellite reading: 0.000000
+-----------------------------------------
+-----------------------------------------
+Iteration: 5
+Logged time: Sun Nov  1 18:11:03 2020
+Reported time: Sun Nov  1 18:11:03 2020
+Aler time: true
+
+Reporting node		 Coord		Temp
+	1 		 (0,1) 		 42
+
+Adjusting nodes		 Coord		Temp
+	3 		 (1,1) 		 98
+	0 		 (0,0) 		 85
+
+Infrared Satellite Reporting Time: Sun Nov  1 18:11:03 2020
+Infrared Satellite Reporting (Celsius): 95
+Infrared Satellite Reporting Coords: (0,1)
+
+Communication Time(secods): 0.074497
+Number of adjacent matches to reporting node: 2
+Time difference between WSN and Satellite reading: 0.000000
+-----------------------------------------
+-----------------------------------------
+Iteration: 6
+Logged time: Sun Nov  1 18:11:04 2020
+Reported time: Sun Nov  1 18:11:04 2020
+Aler time: true
+
+Reporting node		 Coord		Temp
+	2 		 (1,0) 		 53
+
+Adjusting nodes		 Coord		Temp
+	0 		 (0,0) 		 85
+	3 		 (1,1) 		 91
+
+Infrared Satellite Reporting Time: Sun Nov  1 18:11:01 2020
+Infrared Satellite Reporting (Celsius): 99
+Infrared Satellite Reporting Coords: (1,0)
+
+Communication Time(secods): 0.074497
+Number of adjacent matches to reporting node: 2
+Time difference between WSN and Satellite reading: 3.000000
+-----------------------------------------
+-----------------------------------------
+Iteration: 7
+Logged time: Sun Nov  1 18:11:05 2020
+Reported time: Sun Nov  1 18:11:05 2020
+Aler time: true
+
+Reporting node		 Coord		Temp
+	3 		 (1,1) 		 64
+
+Adjusting nodes		 Coord		Temp
+	1 		 (0,1) 		 81
+	2 		 (1,0) 		 85
+
+Infrared Satellite Reporting Time: Sun Nov  1 18:11:02 2020
+Infrared Satellite Reporting (Celsius): 97
+Infrared Satellite Reporting Coords: (1,1)
+
+Communication Time(secods): 0.074497
+Number of adjacent matches to reporting node: 2
+Time difference between WSN and Satellite reading: 3.000000
+-----------------------------------------
+-----------------------------------------
+Iteration: 8
+Logged time: Sun Nov  1 18:11:06 2020
+Reported time: Sun Nov  1 18:11:06 2020
+Aler time: true
+
+Reporting node		 Coord		Temp
+	1 		 (0,1) 		 89
+
+Adjusting nodes		 Coord		Temp
+	3 		 (1,1) 		 91
+	0 		 (0,0) 		 95
+
+Infrared Satellite Reporting Time: Sun Nov  1 18:11:03 2020
+Infrared Satellite Reporting (Celsius): 95
+Infrared Satellite Reporting Coords: (0,1)
+
+Communication Time(secods): 0.074497
+Number of adjacent matches to reporting node: 2
+Time difference between WSN and Satellite reading: 3.000000
+-----------------------------------------
+-----------------------------------------
+Iteration: 4
+Logged time: Sun Nov  1 18:15:03 2020
+Reported time: Sun Nov  1 18:15:03 2020
+Aler time: false
+
+Reporting node		 Coord		Temp
+	0 		 (0,0) 		 97
+
+Adjusting nodes		 Coord		Temp
+	3 		 (1,0) 		 83
+	1 		 (0,1) 		 83
+
+Infrared Satellite Reporting Time: Sun Nov  1 18:15:02 2020
+Infrared Satellite Reporting (Celsius): 62
+Infrared Satellite Reporting Coords: (0,0)
+
+Communication Time(secods): 0.074521
+Number of adjacent matches to reporting node: 2
+Time difference between WSN and Satellite reading: 1.000000
+-----------------------------------------
+-----------------------------------------
+Iteration: 7
+Logged time: Sun Nov  1 18:15:06 2020
+Reported time: Sun Nov  1 18:15:06 2020
+Aler time: true
+
+Reporting node		 Coord		Temp
+	0 		 (0,0) 		 92
+
+Adjusting nodes		 Coord		Temp
+	3 		 (1,0) 		 84
+	1 		 (0,1) 		 84
+
+Infrared Satellite Reporting Time: Sun Nov  1 18:15:05 2020
+Infrared Satellite Reporting (Celsius): 94
+Infrared Satellite Reporting Coords: (0,0)
+
+Communication Time(secods): 0.074521
+Number of adjacent matches to reporting node: 2
+Time difference between WSN and Satellite reading: 1.000000
+-----------------------------------------
+-----------------------------------------
+Iteration: 7
+Logged time: Sun Nov  1 18:15:06 2020
+Reported time: Sun Nov  1 18:15:06 2020
+Aler time: false
+
+Reporting node		 Coord		Temp
+	0 		 (0,0) 		 92
+
+Adjusting nodes		 Coord		Temp
+	3 		 (1,0) 		 84
+	1 		 (0,1) 		 84
+
+Infrared Satellite Reporting Time: Sun Nov  1 18:15:02 2020
+Infrared Satellite Reporting (Celsius): 62
+Infrared Satellite Reporting Coords: (0,0)
+
+Communication Time(secods): 0.074521
+Number of adjacent matches to reporting node: 2
+Time difference between WSN and Satellite reading: 4.000000
+-----------------------------------------
+-----------------------------------------
+Iteration: 2
+Logged time: Sun Nov  1 18:17:23 2020
+Reported time: Sun Nov  1 18:17:23 2020
+Aler time: true
+
+Reporting node		 Coord		Temp
+	8 		 (2,0) 		 76
+
+Adjusting nodes		 Coord		Temp
+	4 		 (1,0) 		 92
+	12 		 (3,0) 		 81
+	9 		 (2,1) 		 88
+
+Infrared Satellite Reporting Time: Sun Nov  1 18:17:20 2020
+Infrared Satellite Reporting (Celsius): 67
+Infrared Satellite Reporting Coords: (2,0)
+
+Communication Time(secods): 0.074535
+Number of adjacent matches to reporting node: 3
+Time difference between WSN and Satellite reading: 3.000000
+-----------------------------------------
+-----------------------------------------
+Iteration: 3
+Logged time: Sun Nov  1 18:17:24 2020
+Reported time: Sun Nov  1 18:17:24 2020
+Aler time: true
+
+Reporting node		 Coord		Temp
+	14 		 (3,2) 		 40
+
+Adjusting nodes		 Coord		Temp
+	13 		 (3,1) 		 100
+	15 		 (3,3) 		 96
+
+Infrared Satellite Reporting Time: Sun Nov  1 18:17:23 2020
+Infrared Satellite Reporting (Celsius): 96
+Infrared Satellite Reporting Coords: (3,2)
+
+Communication Time(secods): 0.074535
+Number of adjacent matches to reporting node: 2
+Time difference between WSN and Satellite reading: 1.000000
+-----------------------------------------
+-----------------------------------------
+Iteration: 5
+Logged time: Sun Nov  1 18:17:26 2020
+Reported time: Sun Nov  1 18:17:26 2020
+Aler time: true
+
+Reporting node		 Coord		Temp
+	1 		 (0,1) 		 58
+
+Adjusting nodes		 Coord		Temp
+	5 		 (1,1) 		 94
+	0 		 (0,0) 		 89
+
+Infrared Satellite Reporting Time: Sun Nov  1 18:17:24 2020
+Infrared Satellite Reporting (Celsius): 99
+Infrared Satellite Reporting Coords: (0,1)
+
+Communication Time(secods): 0.074535
+Number of adjacent matches to reporting node: 2
+Time difference between WSN and Satellite reading: 2.000000
+-----------------------------------------
